@@ -1,0 +1,112 @@
+
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8">
+  <title>Simulare Radiologie</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    .question { border: 1px solid #ccc; padding: 15px; margin-bottom: 20px; border-radius: 10px; }
+    .image { margin: 10px 0; max-width: 100%; height: auto; }
+    .correct { background-color: #c8f7c5; }
+    .incorrect { background-color: #f7c5c5; text-decoration: line-through; }
+    .single { color: #0066cc; font-weight: bold; }
+    .multi { color: #cc6600; font-weight: bold; }
+  </style>
+</head>
+<body>
+  <h1>Simulare Radiologie – 32 întrebări</h1>
+  <button onclick="generateTest()">Generează Testul</button>
+  <button onclick="submitTest()">Trimite Testul</button>
+  <div id="container"></div>
+  <script>
+    let questions = [], test = [];
+
+    fetch("intrebari.json")
+      .then(res => res.json())
+      .then(data => {
+        questions = data;
+        console.log("Întrebările au fost încărcate cu succes.");
+      })
+      .catch(err => alert("Eroare la încărcarea întrebărilor: " + err));
+
+    function shuffle(array) {
+      for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+      }
+    }
+
+    function generateTest() {
+      if (!questions.length) return alert("Întrebările nu au fost încărcate.");
+      document.getElementById("container").innerHTML = "";
+      test = [];
+      const singles = questions.filter(q => q.answers.filter(a => a.is_correct).length === 1);
+      const multis = questions.filter(q => {
+        const c = q.answers.filter(a => a.is_correct).length;
+        return c >= 2 && c <= 4;
+      });
+
+      shuffle(singles); shuffle(multis);
+      test = singles.slice(0, 16).concat(multis.slice(0, 16));
+      shuffle(test);
+
+      test.forEach((q, i) => {
+        const div = document.createElement("div");
+        div.className = "question";
+        const tip = q.answers.filter(a => a.is_correct).length === 1 ? "single" : "multi";
+        div.innerHTML = `<div class="${tip}">${i + 1}. ${q.question}</div>` +
+                        `<img src="img/${q.image}" class="image">`;
+
+        q.answers.forEach((a, j) => {
+          const id = `q${i}_a${j}`;
+          div.innerHTML += `<label><input type="checkbox" id="${id}"> ${a.text}</label><br>`;
+        });
+
+        document.getElementById("container").appendChild(div);
+      });
+    }
+
+    function submitTest() {
+      let score = 0;
+      test.forEach((q, i) => {
+        const correct = q.answers.map(a => a.is_correct);
+        const checked = q.answers.map((_, j) => document.getElementById(`q${i}_a${j}`).checked);
+        const div = document.getElementsByClassName("question")[i];
+        let correctCount = correct.filter(x => x).length;
+        let c = 0, g = 0;
+
+        q.answers.forEach((a, j) => {
+          const box = document.getElementById(`q${i}_a${j}`);
+          const label = box.parentElement;
+          if (box.checked && a.is_correct) { c++; label.classList.add("correct"); }
+          if (box.checked && !a.is_correct) { g++; label.classList.add("incorrect"); }
+        });
+
+        if (correctCount === 1) score += (c === 1 && g === 0) ? 5 : 0;
+        if (correctCount === 2) {
+          if (c === 2 && g === 0) score += 5;
+          else if (c === 1 && g === 0) score += 3;
+          else if (c === 1 && g === 1) score += 2;
+          else if (c === 2 && g === 1) score += 4;
+        }
+        if (correctCount === 3) {
+          if (c === 3 && g === 0) score += 5;
+          else if (c === 2 && g === 0) score += 4;
+          else if (c === 2 && g === 1) score += 3;
+          else if (c === 1 && g === 2) score += 1;
+        }
+        if (correctCount === 4) {
+          if (c === 4 && g === 0) score += 5;
+          else if (c === 3 && g === 0) score += 4;
+          else if (c === 3 && g === 1) score += 3;
+          else if (c === 2 && g === 1) score += 3;
+          else if (c === 2 && g === 0) score += 3;
+          else if (c === 1 && g === 1) score += 1;
+        }
+      });
+      alert("Scor final: " + score + " puncte");
+    }
+  </script>
+</body>
+</html>
