@@ -1,0 +1,72 @@
+
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8">
+  <title>Simulare Radiologie – 150 întrebări</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    .question { border: 1px solid #ccc; padding: 15px; margin-bottom: 20px; border-radius: 10px; }
+    .image { margin: 10px 0; max-width: 100%; height: auto; }
+    .correct { background-color: #c8f7c5; }
+    .incorrect { background-color: #f7c5c5; text-decoration: line-through; }
+    .missed { background-color: #d9edf7; font-weight: bold; }
+    .single { color: #0066cc; font-weight: bold; }
+    .multi { color: #cc6600; font-weight: bold; }
+  </style>
+</head>
+<body>
+  <h1>Simulare Radiologie – 150 întrebări</h1>
+  <button onclick="generateTest()">Încarcă toate întrebările</button>
+  <button onclick="submitTest()">Trimite Testul</button>
+  <div id="container"></div>
+  <script>
+    let questions = [];
+
+    fetch("intrebari.json")
+      .then(res => res.json())
+      .then(data => {
+        questions = data;
+        console.log("Întrebările au fost încărcate.");
+      })
+      .catch(err => alert("Eroare la încărcarea întrebărilor: " + err));
+
+    function generateTest() {
+      if (!questions.length) return alert("Întrebările nu au fost încărcate.");
+      document.getElementById("container").innerHTML = "";
+      questions.forEach((q, i) => {
+        const div = document.createElement("div");
+        div.className = "question";
+        const tip = q.answers.filter(a => a.is_correct).length === 1 ? "single" : "multi";
+        div.innerHTML = `<div class="${tip}">${i + 1}. ${q.question}</div>` +
+                        `<img src="img/${q.image}" class="image">`;
+
+        q.answers.forEach((a, j) => {
+          const id = `q${i}_a${j}`;
+          div.innerHTML += `<label id="label_${id}"><input type="checkbox" id="${id}"> ${a.text}</label><br>`;
+        });
+
+        document.getElementById("container").appendChild(div);
+      });
+    }
+
+    function submitTest() {
+      questions.forEach((q, i) => {
+        q.answers.forEach((a, j) => {
+          const id = `q${i}_a${j}`;
+          const cb = document.getElementById(id);
+          const label = document.getElementById("label_" + id);
+          if (cb.checked && a.is_correct) {
+            label.classList.add("correct");
+          } else if (cb.checked && !a.is_correct) {
+            label.classList.add("incorrect");
+          } else if (!cb.checked && a.is_correct) {
+            label.classList.add("missed");
+          }
+        });
+      });
+      alert("Evaluare completă. Verifică răspunsurile evidențiate.");
+    }
+  </script>
+</body>
+</html>
