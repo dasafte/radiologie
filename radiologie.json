@@ -1,0 +1,6902 @@
+[
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata :",
+    "answers": [
+      {
+        "text": "Se observa coloana vertebrala",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa toracele",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa o hemivertebra",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa scolioza",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa cordul",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa craniul",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa mana dreapta",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa mana stanga",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa mandibula",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa antepiciorul drept",
+        "is_correct": false
+      }
+    ],
+    "image": "1.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Hemivertebra este situata lombar",
+        "is_correct": true
+      },
+      {
+        "text": "Hemivertebra determina scolioza",
+        "is_correct": true
+      },
+      {
+        "text": "Hemivertebra este pe partea stanga",
+        "is_correct": true
+      },
+      {
+        "text": "Hemivertebra este sub vertebra lombara 1",
+        "is_correct": true
+      },
+      {
+        "text": "Hemivertebra este deasupra vertebrei lombare 3",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa scolioza a coloanei cervicale",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa scolioza a coloanei dorsale",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa cifoza a coloanei cervicale",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa cifoza a coloanei dorsale",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa fractura radiusului drept",
+        "is_correct": false
+      }
+    ],
+    "image": "2.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Coloana dorsala este normala",
+        "is_correct": true
+      },
+      {
+        "text": "Nu se observa scolioza dorsala",
+        "is_correct": true
+      },
+      {
+        "text": "Nu se observa cifoza dorsala",
+        "is_correct": true
+      },
+      {
+        "text": "Nu se observa coloana cervicala",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa osul iliac drept",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa muschiul biceps brachial drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul biceps brachial stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul deltoid drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul deltoid stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul cvadriceps drept",
+        "is_correct": false
+      }
+    ],
+    "image": "3.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o imagine de rezonanta magnetica",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa coloana lombara",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa o hemivertebra",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa scolioza",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa discurile intrevertebrale",
+        "is_correct": true
+      },
+      {
+        "text": "Este o radiografie toracica",
+        "is_correct": false
+      },
+      {
+        "text": "Este o radiografie de humerus",
+        "is_correct": false
+      },
+      {
+        "text": "Este o radiografie de radius",
+        "is_correct": false
+      },
+      {
+        "text": "Este o radiografie de femur",
+        "is_correct": false
+      },
+      {
+        "text": "Este o radiografie de tibie",
+        "is_correct": false
+      }
+    ],
+    "image": "4.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Sageata indica o hemivertebra",
+        "is_correct": true
+      },
+      {
+        "text": "Hemivertebra este pe partea dreapta",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata indica regiunea lombara",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata indica coloana vertebrala",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata indica o zona de scolioza",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata indica femurul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Sageata indica femurul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Sageata indica tibia dreapta",
+        "is_correct": false
+      },
+      {
+        "text": "Sageata indica tibia stanga",
+        "is_correct": false
+      },
+      {
+        "text": "Sageata indica craniul",
+        "is_correct": false
+      }
+    ],
+    "image": "5.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Se observa scolioza lombara",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa scolioza dextroconcava",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa discurile intervertebrale",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa osul iliac drept",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa osul iliac stang",
+        "is_correct": true
+      },
+      {
+        "text": "Este radiografie toracica",
+        "is_correct": false
+      },
+      {
+        "text": "Este radiografie de craniu",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul deltoid drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul deltoid stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul cvadriceps drept",
+        "is_correct": false
+      }
+    ],
+    "image": "6.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o imagine de CT",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa o vertebra cervicala",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa spina bifida",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa o fractura",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa fractura de arc vertebral stang",
+        "is_correct": true
+      },
+      {
+        "text": "Este o radiografie de mana stanga",
+        "is_correct": false
+      },
+      {
+        "text": "Este o radiografie de mana dreapta",
+        "is_correct": false
+      },
+      {
+        "text": "Este o radiografie de picior drept",
+        "is_correct": false
+      },
+      {
+        "text": "Este o radiografie de picior stang",
+        "is_correct": false
+      },
+      {
+        "text": "Este o radiografie de femur",
+        "is_correct": false
+      }
+    ],
+    "image": "7.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Sageata dreapta indica coloana cervicala",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata dreapta indica o fractura",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata dreapta indica arcul vertebral stang",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata dreapta este dispusa peste muschi",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata dreapta este dispusa peste tesut moale",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata dreapta indica toracele",
+        "is_correct": false
+      },
+      {
+        "text": "Sageata dreapta indica abdomenul",
+        "is_correct": false
+      },
+      {
+        "text": "Sageata dreapta indica piciorul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Sageata dreapta indica piciorul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Sageata dreapta indica femurul",
+        "is_correct": false
+      }
+    ],
+    "image": "8.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Sageata rotunda indica spina bifida",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata rotunda indica o vertebra",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata rotunda indica apofiza spinoasa",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata rotunda este dispusa peste muschi",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata rotunda este dispusa peste tesut moale",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata rotunda indica toracele",
+        "is_correct": false
+      },
+      {
+        "text": "Sageata rotunda indica abdomenul",
+        "is_correct": false
+      },
+      {
+        "text": "Sageata rotunda indica femurul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Sageata rotunda indica femurul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Sageata rotunda indica humerusul stang",
+        "is_correct": false
+      }
+    ],
+    "image": "9.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Se observa coloana vertebrala",
+        "is_correct": true
+      },
+      {
+        "text": "Este sectiune sagitala",
+        "is_correct": true
+      },
+      {
+        "text": "Este o imagine de rezonanta magnetica",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa meningocel",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa maduva spinarii",
+        "is_correct": true
+      },
+      {
+        "text": "Este o radiografie de mana stanga",
+        "is_correct": false
+      },
+      {
+        "text": "Este o radiografie de mana dreapta",
+        "is_correct": false
+      },
+      {
+        "text": "Este o radiografie de picior drept",
+        "is_correct": false
+      },
+      {
+        "text": "Este o radiografie de picior stang",
+        "is_correct": false
+      },
+      {
+        "text": "Este o radiografie de femur",
+        "is_correct": false
+      }
+    ],
+    "image": "10.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Se observa vertebrele",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa discurile intervertebrale",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa apofizele spinoase",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa maduva spinarii",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa meningocel",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa toracele",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa abdomenul",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa umarul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa umarul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul",
+        "is_correct": false
+      }
+    ],
+    "image": "11.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Vertebrele sunt aliniate",
+        "is_correct": true
+      },
+      {
+        "text": "Spatiul dintre vertebre nu este ingustat",
+        "is_correct": true
+      },
+      {
+        "text": "Spatiul dintre vertebre nu este largit",
+        "is_correct": true
+      },
+      {
+        "text": "Nu se observa scolioza",
+        "is_correct": true
+      },
+      {
+        "text": "Nu se observa fracturi",
+        "is_correct": true
+      },
+      {
+        "text": "Este radiografie toracica",
+        "is_correct": false
+      },
+      {
+        "text": "Este radiografie de craniu",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul deltoid drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul deltoid stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul cvadriceps drept",
+        "is_correct": false
+      }
+    ],
+    "image": "12.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o radiografie",
+        "is_correct": true
+      },
+      {
+        "text": "Este o imagine de profil",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa coloana vertebrala",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa spondilolistezis",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa corpii vertebrali",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa muschiul biceps brachial drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul biceps brachial stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul deltoid drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul deltoid stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul cvadriceps drept",
+        "is_correct": false
+      }
+    ],
+    "image": "13.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Nu se observa fracturi vertebrale",
+        "is_correct": true
+      },
+      {
+        "text": "Nu se observa tasari vertebrale",
+        "is_correct": true
+      },
+      {
+        "text": "Nu se observa hemivertebra dreapta",
+        "is_correct": true
+      },
+      {
+        "text": "Nu se observa hemivertebra stanga",
+        "is_correct": true
+      },
+      {
+        "text": "Nu se observa scolioza",
+        "is_correct": true
+      },
+      {
+        "text": "Este o radiografie de mana dreapta",
+        "is_correct": false
+      },
+      {
+        "text": "Este o radiografie de humerus",
+        "is_correct": false
+      },
+      {
+        "text": "Este o radiografie de radius",
+        "is_correct": false
+      },
+      {
+        "text": "Este o radiografie de femur",
+        "is_correct": false
+      },
+      {
+        "text": "Este o radiografie de tibie",
+        "is_correct": false
+      }
+    ],
+    "image": "14.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Nu se observa craniul",
+        "is_correct": true
+      },
+      {
+        "text": "Nu se observa toracele",
+        "is_correct": true
+      },
+      {
+        "text": "Nu se observa cordul",
+        "is_correct": true
+      },
+      {
+        "text": "Nu se observa piciorul drept",
+        "is_correct": true
+      },
+      {
+        "text": "Nu se observa piciorul stang",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa discurile intervertebrale",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa fracturi vertebrale",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa maduva spinarii",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa meningocel",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa tasari vertebrale",
+        "is_correct": false
+      }
+    ],
+    "image": "15.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o radiografie",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa femurul drept",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa femurul stang",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa oasele bazinului",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa coloana lombara",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa mana stanga",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa mana dreapta",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa umarul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa umarul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul",
+        "is_correct": false
+      }
+    ],
+    "image": "16.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Se observa tibia stanga",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa peroneul stang",
+        "is_correct": true
+      },
+      {
+        "text": "Nu se observa tibia dreapta",
+        "is_correct": true
+      },
+      {
+        "text": "Nu se observa peroneul dreapt",
+        "is_correct": true
+      },
+      {
+        "text": "Nu este imagine de profil",
+        "is_correct": true
+      },
+      {
+        "text": "Este o ecografie",
+        "is_correct": false
+      },
+      {
+        "text": "Este un examen CT",
+        "is_correct": false
+      },
+      {
+        "text": "Este un examen de rezonanta magnetica",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa antebratul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa antebratul drept",
+        "is_correct": false
+      }
+    ],
+    "image": "17.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Se numeste acondroplazie",
+        "is_correct": true
+      },
+      {
+        "text": "Comparativ cu trunchiul, femurul drept nu este dezvoltat",
+        "is_correct": true
+      },
+      {
+        "text": "Comparativ cu trunchiul, femurul stang nu este dezvoltat",
+        "is_correct": true
+      },
+      {
+        "text": "Comparativ cu trunchiul, tibia stanga nu este dezvoltata",
+        "is_correct": true
+      },
+      {
+        "text": "Comparativ cu trunchiul, peroneul stang nu este dezvoltat",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa umarul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa umarul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa radiusul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa radiusul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul",
+        "is_correct": false
+      }
+    ],
+    "image": "18.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Se numeste acondroplazie",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa humerusul drept",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa radiusul drept",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa cubitusul drept",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa oasele metacarpiene drepte",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa vertebrele",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa discurile intervertebrale",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa apofizele spinoase",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa maduva spinarii",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa meningocel",
+        "is_correct": false
+      }
+    ],
+    "image": "19.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o radiografie",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa membrul superior drept",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa falangele drepte",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa articulatiile membrului superior drept",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa o portiune din clavicula dreapta",
+        "is_correct": true
+      },
+      {
+        "text": "Este o imagine de CT",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa o vertebra lombara",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa spina bifida",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa abdomenul",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa fractura de arc vertebral stang",
+        "is_correct": false
+      }
+    ],
+    "image": "20.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Humerusul drept nu este dezvoltat",
+        "is_correct": true
+      },
+      {
+        "text": "Radiusul drept nu este dezvoltat",
+        "is_correct": true
+      },
+      {
+        "text": "Cubitusul drept nu este dezvoltat",
+        "is_correct": true
+      },
+      {
+        "text": "Metacarpienele drepte nu sunt dezvoltate",
+        "is_correct": true
+      },
+      {
+        "text": "Falangele drepte nu sunt dezvoltate",
+        "is_correct": true
+      },
+      {
+        "text": "Este o imagine de CT",
+        "is_correct": false
+      },
+      {
+        "text": "Este o imagine de rezonanta magnetica",
+        "is_correct": false
+      },
+      {
+        "text": "Este o ecografie",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul cvadriceps",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul diafragm",
+        "is_correct": false
+      }
+    ],
+    "image": "21.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o imagine de rezonanta magnetica",
+        "is_correct": true
+      },
+      {
+        "text": "Este o sectiune sagitala",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata indica o fractura-tasare",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata indica o vertebra",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata este suprapusa peste o vertebra",
+        "is_correct": true
+      },
+      {
+        "text": "Este o radiografie",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa membrul superior drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa falangele drepte",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa articulatiile membrului superior drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa o portiune din clavicula dreapta",
+        "is_correct": false
+      }
+    ],
+    "image": "22.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Se observa coloana vertebrala",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa maduva spinarii",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa vertebre",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa discuri intervertebrale",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa apofizele spinoase ale vertebrelor",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa soldul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa soldul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa femurul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa femurul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul",
+        "is_correct": false
+      }
+    ],
+    "image": "23.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Sageata indica o vertebra tasata",
+        "is_correct": true
+      },
+      {
+        "text": "Varful sagetii este plasat pe discul intervertebral",
+        "is_correct": true
+      },
+      {
+        "text": "Discurile intervertebrale arata normal",
+        "is_correct": true
+      },
+      {
+        "text": "Apofizele spinoase arata normal",
+        "is_correct": true
+      },
+      {
+        "text": "Maduva spinarii arata normal",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa cotul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa cotul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa oasele carpiene drepte",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa oasele carpiene stangi",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa oasele bazinului",
+        "is_correct": false
+      }
+    ],
+    "image": "24.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este coloana vertebrala",
+        "is_correct": true
+      },
+      {
+        "text": "Este imagine de profil",
+        "is_correct": true
+      },
+      {
+        "text": "Este imagine de CT",
+        "is_correct": true
+      },
+      {
+        "text": "Este in plan sagittal",
+        "is_correct": true
+      },
+      {
+        "text": "Este o fractura",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa umarul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa antebratul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa radiusul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa humerusul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa piciorul drept",
+        "is_correct": false
+      }
+    ],
+    "image": "25.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este un os",
+        "is_correct": true
+      },
+      {
+        "text": "O vertebra este afectata",
+        "is_correct": true
+      },
+      {
+        "text": "O vertebra este fracturata",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa o fractura transversal prin vertebra",
+        "is_correct": true
+      },
+      {
+        "text": "Nu se observa discurile intervertebrale",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa femurul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa peroneul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa umarul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa deltoidul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa bicepsul brahial stang",
+        "is_correct": false
+      }
+    ],
+    "image": "26.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Prima vertebra are apofiza spinoasa intreaga",
+        "is_correct": true
+      },
+      {
+        "text": "A doua vertebra are apofiza spinoasa intreaga",
+        "is_correct": true
+      },
+      {
+        "text": "A treia vertebra are apofiza spinoasa fracturata",
+        "is_correct": true
+      },
+      {
+        "text": "A patra vertebra are apofiza spinoasa intreaga",
+        "is_correct": true
+      },
+      {
+        "text": "A cincea vertebra se observa doar partial",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa mana stanga",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa clavicula stanga",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa tibia stanga",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa antepiciorul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa pumnul stang",
+        "is_correct": false
+      }
+    ],
+    "image": "27.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o imagine de rezonanta magnetica",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa discurile intervertebrale",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa maduva spinarii",
+        "is_correct": true
+      },
+      {
+        "text": "Discurile intervertebrale nu sunt ingustate",
+        "is_correct": true
+      },
+      {
+        "text": "Spatiile intervertebrale nu sunt ingustate",
+        "is_correct": true
+      },
+      {
+        "text": "Este o radiografie",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa oasele carpiene drepte",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa oasele metacarpiene drepte",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa oasele carpiene stangi",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa oasele metacarpiene stangi",
+        "is_correct": false
+      }
+    ],
+    "image": "28.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Prima vertebra este normala",
+        "is_correct": true
+      },
+      {
+        "text": "A doua vertebra este normala",
+        "is_correct": true
+      },
+      {
+        "text": "A treia vertebra este fracturata",
+        "is_correct": true
+      },
+      {
+        "text": "A treia vertebra are edem",
+        "is_correct": true
+      },
+      {
+        "text": "A patra vertebra este normala",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa antepiciorul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa antepiciorul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa piciorul drept, incidenta de profil",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa piciorul stang, incidenta de profil",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul",
+        "is_correct": false
+      }
+    ],
+    "image": "29.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Sageata indica edem de tesut moale",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata indica compresia maduvei spinarii",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata indica apofiza spinoasa a vertebrei",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata indica zona de edem",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata indica zona de fractura",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa falangele degetului I",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa falangele degetului II",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa falangele degetului III",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa falangele degetului IV",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa falangele degetului V",
+        "is_correct": false
+      }
+    ],
+    "image": "30.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o radiografie",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa coloana vertebrala",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa fractura",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa o apofiza spinoasa",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa doua coaste",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa muschiul cvadriceps",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul deltoid",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa femurul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa femurul stang",
+        "is_correct": false
+      }
+    ],
+    "image": "31.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o imagine de profil",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa vertebre lombare",
+        "is_correct": true
+      },
+      {
+        "text": "Prima vertebra se observa partial",
+        "is_correct": true
+      },
+      {
+        "text": "A doua vertebra are fracturat platoul superior",
+        "is_correct": true
+      },
+      {
+        "text": "A treia vertebra are o fractura a corpului vertebral",
+        "is_correct": true
+      },
+      {
+        "text": "Este o ecografie",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa ficatul",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa colecistul",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa pancreasul",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul",
+        "is_correct": false
+      }
+    ],
+    "image": "32.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Sageata de sus indica o fractura",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata de jos indica o fractura",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata de sus arata catre o vertebra",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata de jos arata catre o vertebra",
+        "is_correct": true
+      },
+      {
+        "text": "Ambele sageti indica capetele aceleiasi fracturi vertebrale",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata de sus indica craniul",
+        "is_correct": false
+      },
+      {
+        "text": "Sageata de sus indica omoplatul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Sageata de jos indica craniul",
+        "is_correct": false
+      },
+      {
+        "text": "Sageata de jos indica omoplatul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Ambele sageti indica genunchiul stang",
+        "is_correct": false
+      }
+    ],
+    "image": "33.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o radiografie",
+        "is_correct": true
+      },
+      {
+        "text": "Este incidenta de profil",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa o fractura vertebrala",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa vertebre",
+        "is_correct": true
+      },
+      {
+        "text": "Nu se observa discuri intervertebrale",
+        "is_correct": true
+      },
+      {
+        "text": "Este o imagine de rezonanta magnetica",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa piciorul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa piciorul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa glezna dreapta",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa glezna stanga",
+        "is_correct": false
+      }
+    ],
+    "image": "34.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Prima vertebra este normala",
+        "is_correct": true
+      },
+      {
+        "text": "A doua vertebra este normala",
+        "is_correct": true
+      },
+      {
+        "text": "A treia vertebra este fracturata",
+        "is_correct": true
+      },
+      {
+        "text": "A patra vertebra este normala",
+        "is_correct": true
+      },
+      {
+        "text": "A cincea vertebra este normala",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa humerusul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa humerusul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa radiusul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa radiusul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul",
+        "is_correct": false
+      }
+    ],
+    "image": "35.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Sageata de sus indica marginea normala a vertebrei",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata de jos indica linia de fractura",
+        "is_correct": true
+      },
+      {
+        "text": "Este o fractura vertebrala laterala",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata de sus indica a treia vertebra",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata de jos indica marginea superioara a vertebrei a treia lombara",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata de sus indica umarul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Sageata de sus indica umarul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Sageata de jos indica umarul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Sageata de jos indica umarul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Ambele sageti indica omoplatul drept",
+        "is_correct": false
+      }
+    ],
+    "image": "36.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o imagine de MRI",
+        "is_correct": true
+      },
+      {
+        "text": "Este o imagine in plan sagital",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa o hernie de disc",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa hemoragie anterior vertebrelor",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa hemoragie in interiorul maduvei spinarii",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa muschiul cvadriceps",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul deltoid",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa femurul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa femurul stang",
+        "is_correct": false
+      }
+    ],
+    "image": "37.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Prima vertebra este normala",
+        "is_correct": true
+      },
+      {
+        "text": "A doua vertebra este normala",
+        "is_correct": true
+      },
+      {
+        "text": "A treia vertebra este normala",
+        "is_correct": true
+      },
+      {
+        "text": "A patra vertebra este normala",
+        "is_correct": true
+      },
+      {
+        "text": "A cincea vertebra este normala",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa humerusul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa humerusul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa radiusul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa radiusul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul",
+        "is_correct": false
+      }
+    ],
+    "image": "38.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Sageata de sus indica hemoragie in maduva spinarii",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata de jos indica hemoragie prevertebrala",
+        "is_correct": true
+      },
+      {
+        "text": "Un disc intervertebral este herniat",
+        "is_correct": true
+      },
+      {
+        "text": "Un disc intervertebral determina hemoragie in maduva spinarii",
+        "is_correct": true
+      },
+      {
+        "text": "Un disc intervertebral determina hemoragie prevertebrala",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa piciorul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa piciorul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa mana dreapta",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa mana stanga",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul",
+        "is_correct": false
+      }
+    ],
+    "image": "39.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o imagine de MRI",
+        "is_correct": true
+      },
+      {
+        "text": "Este o imagine in plan sagital",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa hernie de disc",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa hemoragie in maduva spinarii",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa edem in maduva spinarii",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa muschiul cvadriceps",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul deltoid",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa femurul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa femurul stang",
+        "is_correct": false
+      }
+    ],
+    "image": "40.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Prima vertebra este normala",
+        "is_correct": true
+      },
+      {
+        "text": "A doua vertebra este normala",
+        "is_correct": true
+      },
+      {
+        "text": "A treia vertebra este normala",
+        "is_correct": true
+      },
+      {
+        "text": "A patra vertebra este normala",
+        "is_correct": true
+      },
+      {
+        "text": "A cincea vertebra este normala",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa humerusul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa humerusul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa radiusul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa radiusul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul",
+        "is_correct": false
+      }
+    ],
+    "image": "41.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Se observa vertebre",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa discuri intervertebrale, de culoare alba",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa apofizele spinoase",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa maduva spinarii",
+        "is_correct": true
+      },
+      {
+        "text": "Nu se observa craniul",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa clavicula dreapta",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa piciorul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa piciorul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa mana dreapta",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa mana stanga",
+        "is_correct": false
+      }
+    ],
+    "image": "42.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o imagine de MRI",
+        "is_correct": true
+      },
+      {
+        "text": "Este incidenta sagitala",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa un disc intervertebral herniat",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa compresia maduvei spinarii",
+        "is_correct": true
+      },
+      {
+        "text": "Discul intervertebral herniat comprima maduva spinarii",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa muschiul cvadriceps",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul deltoid",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa femurul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa femurul stang",
+        "is_correct": false
+      }
+    ],
+    "image": "43.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Prima vertebra este normala",
+        "is_correct": true
+      },
+      {
+        "text": "A doua vertebra este normala",
+        "is_correct": true
+      },
+      {
+        "text": "A treia vertebra este normala",
+        "is_correct": true
+      },
+      {
+        "text": "A patra vertebra este normala",
+        "is_correct": true
+      },
+      {
+        "text": "A cincea vertebra este normala",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa humerusul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa humerusul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa radiusul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa radiusul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul",
+        "is_correct": false
+      }
+    ],
+    "image": "44.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Sageata indica maduva spinarii",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata indica locul de compresie asupra maduvei spinarii",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata este situate peste o apofiza spinoasa",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata indica discul intervertebral care a herniat",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata indica locul unde discul intervertebral herniat comprima maduva spinarii",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa clavicula dreapta",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa piciorul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa piciorul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa mana dreapta",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa mana stanga",
+        "is_correct": false
+      }
+    ],
+    "image": "45.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o imagine de MRI",
+        "is_correct": true
+      },
+      {
+        "text": "Este incidenta sagitala",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa un disc intervertebral herniat",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa migrarea unui fragment de disc posterior corpului vertebrei lombare",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata indica zona posterioara a vertebrei lombare L4",
+        "is_correct": true
+      },
+      {
+        "text": "Este o ecografie",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul, in incidenta de fata",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul, in incidenta de profil",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa mana dreapta, in incidenta de fata",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa mana dreapta, in incidenta de profil",
+        "is_correct": false
+      }
+    ],
+    "image": "46.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Sageata indica fragmentul de disc herniat",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata este situata peste corpul vertebrei lombare L4",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata indica partea posterioara a vertebrei lombare L4",
+        "is_correct": true
+      },
+      {
+        "text": "Sub vertebra L 4 se observa un fragment doar din discul intervertebral",
+        "is_correct": true
+      },
+      {
+        "text": "Fragmentul de disc herniat are originea sub vertebra lombara L4",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa humerusul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa humerusul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa radiusul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa radiusul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul",
+        "is_correct": false
+      }
+    ],
+    "image": "47.jpg"
+  },
+  {
+    "question": "Precizati ce componente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Vertebra lombara L3 este normala",
+        "is_correct": true
+      },
+      {
+        "text": "Vertebra lombara L4 este normala",
+        "is_correct": true
+      },
+      {
+        "text": "Vertebra lombara L5 este normala",
+        "is_correct": true
+      },
+      {
+        "text": "Vertebra sacrata S1 este normala",
+        "is_correct": true
+      },
+      {
+        "text": "Vertebra sacrata S2 este normala",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa falangele degetului I de la mana dreapta",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa falangele degetului II de la mana dreapta",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa falangele degetului III de la mana dreapta",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa falangele degetului IV de la mana dreapta",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa falangele degetului V de la mana dreapta",
+        "is_correct": false
+      }
+    ],
+    "image": "48.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata :",
+    "answers": [
+      {
+        "text": "Este o radiografie",
+        "is_correct": true
+      },
+      {
+        "text": "Este incidenta de fata",
+        "is_correct": true
+      },
+      {
+        "text": "Este copil",
+        "is_correct": true
+      },
+      {
+        "text": "Este fractura de tibie",
+        "is_correct": true
+      },
+      {
+        "text": "Peroneul este normal",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa muschiul deltoid drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul deltoid stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul biceps brahial drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul biceps brahial stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul",
+        "is_correct": false
+      }
+    ],
+    "image": "49.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o radiografie de gamba",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa cartilagiile de crestere",
+        "is_correct": true
+      },
+      {
+        "text": "Este o imagine de pe partea dreapta",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa muschii gambei",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa partial articulatia gleznei",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa corpii vertebrali lombari",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa apofizele spinoase ale vertebrelor lombare",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa corpii vertebrali cervicali",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa apofizele spinoase ale vertebrelor cervicale",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa mandibula",
+        "is_correct": false
+      }
+    ],
+    "image": "50.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Se observa articulatia genunchiului",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa spinele tibiale",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa platoul tibial",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa condilul extern femural",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa capul peroneului",
+        "is_correct": true
+      },
+      {
+        "text": "Este o ecografie",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa mana stanga",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa oasele carpiene stangi",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa oasele metacarpiene stangi",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa falangele mainii stangi",
+        "is_correct": false
+      }
+    ],
+    "image": "51.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o radiografie",
+        "is_correct": true
+      },
+      {
+        "text": "Este incidenta de fata",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa fractura",
+        "is_correct": true
+      },
+      {
+        "text": "Osul implicat este femurul",
+        "is_correct": true
+      },
+      {
+        "text": "Este partea dreapta",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa clavicula dreapta",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa clavicula stanga",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa mandibula",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul, in incidenta de fata",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul, in incidenta de profil",
+        "is_correct": false
+      }
+    ],
+    "image": "52.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este un copil",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa cartilagiile de crestere",
+        "is_correct": true
+      },
+      {
+        "text": "Cartilagiile de crestere sunt vizibile la oasele lungi",
+        "is_correct": true
+      },
+      {
+        "text": "Este o fractura spiralata",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa osul iliac drept",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa radiusul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa radiusul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa cubitusul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa cubitusul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul",
+        "is_correct": false
+      }
+    ],
+    "image": "53.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Se observa capul femural drept",
+        "is_correct": true
+      },
+      {
+        "text": "Genunchiul drept se observa din profil",
+        "is_correct": true
+      },
+      {
+        "text": "Soldul drept se observa pe aspect de fata",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa condilii femurali",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa extremitatea superioara a tibiei",
+        "is_correct": true
+      },
+      {
+        "text": "Este o imagine de MRI",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa discurile intervertebrale",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa un disc intervertebral herniat",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa edem al maduvei spinarii",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa compresia maduvei spinarii",
+        "is_correct": false
+      }
+    ],
+    "image": "54.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o radiografie",
+        "is_correct": true
+      },
+      {
+        "text": "Este pe partea dreapta",
+        "is_correct": true
+      },
+      {
+        "text": "Este incidenta de fata",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa fractura transversa a tibiei",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa fractura oblica a tibiei",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa clavicula dreapta",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa clavicula stanga",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa mandibula",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul, in incidenta de fata",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul, in incidenta de profil",
+        "is_correct": false
+      }
+    ],
+    "image": "55.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este un copil",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa cartilagiu de crestere la extremitatea superioara a peroneului",
+        "is_correct": true
+      },
+      {
+        "text": "Cartilagiu de crestere se observa la extremitatea superioara a tibiei",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa fractura plastica a fibulei drepte",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa cartilagiu de crestere la extremitatea inferioara a tibiei",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa radiusul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa radiusul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa cubitusul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa cubitusul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul",
+        "is_correct": false
+      }
+    ],
+    "image": "56.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Se observa spinele tibiale",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa platoul tibial",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa extremitatea superioara a peroneului",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa extremitatea superioara a tibiei",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa extremitatea inferioara a tibiei",
+        "is_correct": true
+      },
+      {
+        "text": "Este o imagine de MRI",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa discurile intervertebrale",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa un disc intervertebral herniat",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa edem al maduvei spinarii",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa compresia maduvei spinarii",
+        "is_correct": false
+      }
+    ],
+    "image": "57.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o radiografie",
+        "is_correct": true
+      },
+      {
+        "text": "Este incidenta de fata",
+        "is_correct": true
+      },
+      {
+        "text": "Este un copil",
+        "is_correct": true
+      },
+      {
+        "text": "Este pe partea dreapta",
+        "is_correct": true
+      },
+      {
+        "text": "Este o fractura",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa clavicula dreapta",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa clavicula stanga",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa mandibula",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul, in incidenta de fata",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul, in incidenta de profil",
+        "is_correct": false
+      }
+    ],
+    "image": "58.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Se observa o fractura transversa",
+        "is_correct": true
+      },
+      {
+        "text": "Osul implicat este femurul",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa cartilagiu de crestere la extremitatea inferioara a femurului",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa cartilagiu de crestere la extremitatea superioara a femurului",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa cartilagiu de crestere la capul femural",
+        "is_correct": true
+      },
+      {
+        "text": "Este o imagine de MRI",
+        "is_correct": false
+      },
+      {
+        "text": "Este incidenta sagitala",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa maduva spinarii",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa luxatie scapula-humerala stanga",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa hernie de disc",
+        "is_correct": false
+      }
+    ],
+    "image": "59.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Se observa capul femural",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa acetabulul drept",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa condilul femural intern drept",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa condilul femural extern drept",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa platoul tibial drept",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa muschiul deltoid drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul deltoid stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul supraspinos drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul supraspinos stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul,pe incidenta de profil",
+        "is_correct": false
+      }
+    ],
+    "image": "60.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o radiografie",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa nuclei de osificare",
+        "is_correct": true
+      },
+      {
+        "text": "Este un copil",
+        "is_correct": true
+      },
+      {
+        "text": "Este articulatia pumnului",
+        "is_correct": true
+      },
+      {
+        "text": "Este incidenta de profil",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa plamanul",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa cordul",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul, pe incidenta de profil",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa coastele",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul, pe incidenta de fata",
+        "is_correct": false
+      }
+    ],
+    "image": "61.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Se observa o linie alba orizontala pe traseul radiusului",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa o fractura de radius",
+        "is_correct": true
+      },
+      {
+        "text": "Nucleii de osificare apartin oaselor carpiene",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa extremitatea inferioara a radiusului",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa extremitatea inferioara a cubitusului",
+        "is_correct": true
+      },
+      {
+        "text": "Este o imagine de MRI",
+        "is_correct": false
+      },
+      {
+        "text": "Este incidenta axiala",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa maduva spinarii",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa luxatie scapula-humerala stanga",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa hernie de disc",
+        "is_correct": false
+      }
+    ],
+    "image": "62.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Se observa extremitatea superioara a oaselor metacarpiene",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa o portiune din radius",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa o portiune din cubitus",
+        "is_correct": true
+      },
+      {
+        "text": "Nucleii e osificare vizibili arata ca este un copil",
+        "is_correct": true
+      },
+      {
+        "text": "Nucleii de osificare vizibili vor genera oasele carpiene",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa muschiul deltoid drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul deltoid stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul supraspinos drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul supraspinos stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul,pe incidenta de profil",
+        "is_correct": false
+      }
+    ],
+    "image": "63.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o radiografie",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa nuclei de osificare",
+        "is_correct": true
+      },
+      {
+        "text": "Este un copil",
+        "is_correct": true
+      },
+      {
+        "text": "Este articulatia pumnului",
+        "is_correct": true
+      },
+      {
+        "text": "Este incidenta de fata",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa plamanul",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa cordul",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul, pe incidenta de profil",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa coastele",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul, pe incidenta de fata",
+        "is_correct": false
+      }
+    ],
+    "image": "64.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Se observa o linie alba orizontala pe traseul radiusului",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa o fractura de radius",
+        "is_correct": true
+      },
+      {
+        "text": "Nucleii de osificare apartin oaselor carpiene",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa extremitatea inferioara a radiusului",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa extremitatea inferioara a cubitusului",
+        "is_correct": true
+      },
+      {
+        "text": "Este o imagine de MRI",
+        "is_correct": false
+      },
+      {
+        "text": "Este incidenta axiala",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa maduva spinarii",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa luxatie scapula-humerala stanga",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa hernie de disc",
+        "is_correct": false
+      }
+    ],
+    "image": "65.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Se observa extremitatea superioara a oaselor metacarpiene",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa o portiune din radius",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa o portiune din cubitus",
+        "is_correct": true
+      },
+      {
+        "text": "Nucleii e osificare vizibili arata ca este un copil",
+        "is_correct": true
+      },
+      {
+        "text": "Nucleii de osificare vizibili vor genera oasele carpiene",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa muschiul deltoid drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul deltoid stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul supraspinos drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul supraspinos stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul,pe incidenta de profil",
+        "is_correct": false
+      }
+    ],
+    "image": "66.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este cel mai frecvent tip de fractura la copil",
+        "is_correct": true
+      },
+      {
+        "text": "Rezulta din cadere pe mana intinsa",
+        "is_correct": true
+      },
+      {
+        "text": "Este foarte stabila",
+        "is_correct": true
+      },
+      {
+        "text": "Necesita doar o atela",
+        "is_correct": true
+      },
+      {
+        "text": "Necesita tratament simptomatic al durerii",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa fractura vertebrala",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa hernie de disc",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa hemoragie in maduva spinarii",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa fractura de apofiza spinoasa",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa fractura de corp vertebral",
+        "is_correct": false
+      }
+    ],
+    "image": "67.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este cel mai frecvent tip de fractura la copil",
+        "is_correct": true
+      },
+      {
+        "text": "Rezulta din cadere pe mana intinsa",
+        "is_correct": true
+      },
+      {
+        "text": "Este foarte stabila",
+        "is_correct": true
+      },
+      {
+        "text": "Necesita doar o atela",
+        "is_correct": true
+      },
+      {
+        "text": "Necesita tratament simptomatic al durerii",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa fractura vertebrala",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa hernie de disc",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa hemoragie in maduva spinarii",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa fractura de apofiza spinoasa",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa fractura de corp vertebral",
+        "is_correct": false
+      }
+    ],
+    "image": "68.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o radiografie",
+        "is_correct": true
+      },
+      {
+        "text": "Este incidenta de profil",
+        "is_correct": true
+      },
+      {
+        "text": "Este un copil",
+        "is_correct": true
+      },
+      {
+        "text": "Este o fractura de radius",
+        "is_correct": true
+      },
+      {
+        "text": "Este o fractura de cubitus",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa femurul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa femurul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa omoplatul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa omoplatul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa bazinul",
+        "is_correct": false
+      }
+    ],
+    "image": "69.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Fractura de radius este incompleta",
+        "is_correct": true
+      },
+      {
+        "text": "Fractura de cubitus este completa",
+        "is_correct": true
+      },
+      {
+        "text": "Fractura de radius este la nivelul diafizei",
+        "is_correct": true
+      },
+      {
+        "text": "Fractura de cubitus este la nivelul olecranului",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa nuclei de osificare",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa muschiul marele fesier",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul mijlociul fesier",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul micul fesier",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul cvadriceps drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul cvadriceps stang",
+        "is_correct": false
+      }
+    ],
+    "image": "70.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Se observa cartilagiu de crestere la extremitatea distala a radiusului",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa articulatia cotului",
+        "is_correct": true
+      },
+      {
+        "text": "Nucleii de crestere apartin oaselor carpiene",
+        "is_correct": true
+      },
+      {
+        "text": "Radiusul este fracturat",
+        "is_correct": true
+      },
+      {
+        "text": "Radiusul este incurbat",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa vertebrele cervicale, in incidenta de profil",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa vertebrele cervicale, in incidenta de fata",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa vertebrele dorsale, in incidenta de profil",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa vertebrele dorsale, in incidenta de fata",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa osul sacrum",
+        "is_correct": false
+      }
+    ],
+    "image": "71.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o radiografie",
+        "is_correct": true
+      },
+      {
+        "text": "Este antebratul",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa fractura de radius",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa fractura prin incurbare de cubitus",
+        "is_correct": true
+      },
+      {
+        "text": "Este copil",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa plamanul",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa cordul",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul, pe incidenta de profil",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa coastele",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul, pe incidenta de fata",
+        "is_correct": false
+      }
+    ],
+    "image": "72.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Se observa nuclei de osificare ce corespund oaselor carpiene",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa un nucleu de osificare ce corespunde capului radiusului",
+        "is_correct": true
+      },
+      {
+        "text": "In partea de sus se observa extremitatea distala a radiusului",
+        "is_correct": true
+      },
+      {
+        "text": "In partea de sus se observa extremitatea distala a cubitusului",
+        "is_correct": true
+      },
+      {
+        "text": "Ambele oase sunt fracturate",
+        "is_correct": true
+      },
+      {
+        "text": "Este o imagine in plan sagital",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa omoplatul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa omoplatul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Este o imagine de MRI",
+        "is_correct": false
+      },
+      {
+        "text": "Este o imagine de CT",
+        "is_correct": false
+      }
+    ],
+    "image": "73.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o imagine de fata",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa articulatia cotului, partial",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa articulatia pumnului, partial",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa epicondilul, partial",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa epitrohleea, partial",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa discurile intervertebrale",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa un disc intervertebral herniat",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa edem al maduvei spinarii",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa compresia maduvei spinarii",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul, in incidenta de fata",
+        "is_correct": false
+      }
+    ],
+    "image": "74.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o deformare plastica a cubitusului",
+        "is_correct": true
+      },
+      {
+        "text": "Se mai numeste fractura arcuita",
+        "is_correct": true
+      },
+      {
+        "text": "Se mai numeste fractura incurbata",
+        "is_correct": true
+      },
+      {
+        "text": "Este specifica copiilor",
+        "is_correct": true
+      },
+      {
+        "text": "Deformarea plastica apare la antebrat sau la ulna",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa corpii vertebrali lombari",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa apofizele spinoase ale vertebrelor lombare",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa corpii vertebrali cervicali",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa apofizele spinoase ale vertebrelor cervicale",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa mandibula",
+        "is_correct": false
+      }
+    ],
+    "image": "75.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o radiografie",
+        "is_correct": true
+      },
+      {
+        "text": "Este incidenta de fata",
+        "is_correct": true
+      },
+      {
+        "text": "Este o fractura cominutiva",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa mai multe fragmente osoase",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa stabilizarea cu brose metalice",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa plamanul",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa cordul",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul, pe incidenta de profil",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa coastele",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul, pe incidenta de fata",
+        "is_correct": false
+      }
+    ],
+    "image": "76.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este un os lung",
+        "is_correct": true
+      },
+      {
+        "text": "Este femurul",
+        "is_correct": true
+      },
+      {
+        "text": "Este pe partea stanga",
+        "is_correct": true
+      },
+      {
+        "text": "Osul este afectat la nivelul diafizei",
+        "is_correct": true
+      },
+      {
+        "text": "Brosele metalice strabat intreaga diafiza",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa vertebre cervicale, pe incidenta de fata",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa vertebre cervicale, pe incidenta de profil",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa vertebre lombare, pe incidenta de fata",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa vertebre lombare, pe incidenta de profil",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa vertebre dorsale, pe incidenta de fata",
+        "is_correct": false
+      }
+    ],
+    "image": "77.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Se observa un traiect de fractura la mijlocul diafizei",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa un traiect de fractura la unirea 2/3 superioare cu 1/3 inferioara a diafizei",
+        "is_correct": true
+      },
+      {
+        "text": "Alinierea fragmentelor nu este perfecta",
+        "is_correct": true
+      },
+      {
+        "text": "Extremitatea superioara a femurului pare sa nu aiba niciun traiect de fractura",
+        "is_correct": true
+      },
+      {
+        "text": "Condilul extern al femurului pare sa nu aiba niciun traiect de fractura",
+        "is_correct": true
+      },
+      {
+        "text": "Este o ecografie",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa ventriculul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa atriul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa ventriculul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa atriul stang",
+        "is_correct": false
+      }
+    ],
+    "image": "78.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o radiografie",
+        "is_correct": true
+      },
+      {
+        "text": "Este un copil",
+        "is_correct": true
+      },
+      {
+        "text": "Este incidenta de fata",
+        "is_correct": true
+      },
+      {
+        "text": "Este pe partea stanga",
+        "is_correct": true
+      },
+      {
+        "text": "Este o fractura operata",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa clavicula dreapta",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa clavicula stanga",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa mandibula",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul, in incidenta de fata",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul, in incidenta de profil",
+        "is_correct": false
+      }
+    ],
+    "image": "79.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Se observa o fractura oblica",
+        "is_correct": true
+      },
+      {
+        "text": "Osul implicat este femurul",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa cartilagiu de crestere la extremitatea inferioara a femurului",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa repararea cu placa metalica",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa repararea cu suruburi metalice",
+        "is_correct": true
+      },
+      {
+        "text": "Este o imagine de MRI",
+        "is_correct": false
+      },
+      {
+        "text": "Este incidenta sagitala",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa maduva spinarii",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa luxatie scapulo-humerala stanga",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa hernie de disc",
+        "is_correct": false
+      }
+    ],
+    "image": "80.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Se observa capul femural",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa acetabulul stang, partial",
+        "is_correct": true
+      },
+      {
+        "text": "Nu se observa calus la nivelul diafizei femurale",
+        "is_correct": true
+      },
+      {
+        "text": "Nu se observa calus la nivelul capului femoral",
+        "is_correct": true
+      },
+      {
+        "text": "Nu se observa calus la nivelul extremitatii distale a femurului",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa muschiul deltoid drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul deltoid stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul supraspinos drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul supraspinos stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul, pe incidenta de profil",
+        "is_correct": false
+      }
+    ],
+    "image": "81.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o radiografie",
+        "is_correct": true
+      },
+      {
+        "text": "Este copil",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa doua incidente",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa fractura",
+        "is_correct": true
+      },
+      {
+        "text": "Fractura este spiralata",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa corpii vertebrali lombari",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa apofizele spinoase ale vertebrelor lombare",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa corpii vertebrali cervicali",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa apofizele spinoase ale vertebrelor cervicale",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa mandibula",
+        "is_correct": false
+      }
+    ],
+    "image": "82.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este pe partea dreapta",
+        "is_correct": true
+      },
+      {
+        "text": "Humerusul este fracturat",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa cartilagiu de crestere la nivelul capului humeral",
+        "is_correct": true
+      },
+      {
+        "text": "Fractura este veche",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa calus la nivelul fracturii",
+        "is_correct": true
+      },
+      {
+        "text": "Este o imagine de CT",
+        "is_correct": false
+      },
+      {
+        "text": "Este o imagine de MRI",
+        "is_correct": false
+      },
+      {
+        "text": "Este o ecografie",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul cvadriceps drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul cvadriceps stang",
+        "is_correct": false
+      }
+    ],
+    "image": "83.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Bratul este imobilizat in atela ghipsata",
+        "is_correct": true
+      },
+      {
+        "text": "Fragmentele osoase nu sunt aliniate corect",
+        "is_correct": true
+      },
+      {
+        "text": "Fragmentele osoase nu sunt in continuitate",
+        "is_correct": true
+      },
+      {
+        "text": "Fractura nu a fost imobilizata cu placa metalica",
+        "is_correct": true
+      },
+      {
+        "text": "Fractura nu a fost imobilizata cu brose metalice",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa ventriculul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa atriul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa ventriculul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa atriul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa bazinul",
+        "is_correct": false
+      }
+    ],
+    "image": "84.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o radiografie",
+        "is_correct": true
+      },
+      {
+        "text": "Este pe partea stanga",
+        "is_correct": true
+      },
+      {
+        "text": "Este o fractura",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa lama-placa metalica",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa suruburi metalice",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa clavicula dreapta",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa clavicula stanga",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa mandibula",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul, in incidenta de fata",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul, in incidenta de profil",
+        "is_correct": false
+      }
+    ],
+    "image": "85.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o fractura operata",
+        "is_correct": true
+      },
+      {
+        "text": "Nu se observa calus",
+        "is_correct": true
+      },
+      {
+        "text": "Nu se observa unirea fragmentelor osoase",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa inca traiectul de fractura",
+        "is_correct": true
+      },
+      {
+        "text": "Fractura este intre marele trochanter si diafiza femurala",
+        "is_correct": true
+      },
+      {
+        "text": "Este o imagine de MRI",
+        "is_correct": false
+      },
+      {
+        "text": "Este incidenta sagitala",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa maduva spinarii",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa luxatie scapulo-humerala stanga",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa hernie de disc",
+        "is_correct": false
+      }
+    ],
+    "image": "86.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Se observa capul femural stang",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa acetabulul stang",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa marele trochanter",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa extremitatea superioara a femurului stang",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa repararea fracturii cu material de osteosinteza metalic",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa muschiul deltoid drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul deltoid stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul supraspinos drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul supraspinos stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul, pe incidenta de profil",
+        "is_correct": false
+      }
+    ],
+    "image": "87.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o radiografie",
+        "is_correct": true
+      },
+      {
+        "text": "Este pe partea dreapta",
+        "is_correct": true
+      },
+      {
+        "text": "Este o fractura",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa placa metalica",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa suruburi metalice",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa clavicula dreapta",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa clavicula stanga",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa mandibula",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul, in incidenta de fata",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul, in incidenta de profil",
+        "is_correct": false
+      }
+    ],
+    "image": "88.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o fractura operata",
+        "is_correct": true
+      },
+      {
+        "text": "Nu se observa calus",
+        "is_correct": true
+      },
+      {
+        "text": "Este o fractura noua",
+        "is_correct": true
+      },
+      {
+        "text": "Este o fractura prin traiectul primului surub",
+        "is_correct": true
+      },
+      {
+        "text": "Fractura este la jumatatea diafizei femurale",
+        "is_correct": true
+      },
+      {
+        "text": "Este o imagine de MRI",
+        "is_correct": false
+      },
+      {
+        "text": "Este incidenta sagitala",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa maduva spinarii",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa luxatie scapulo-humerala stanga",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa hernie de disc",
+        "is_correct": false
+      }
+    ],
+    "image": "89.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Se observa capul femural drept",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa acetabulul drept",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa marele trochanter",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa extremitatea superioara a femurului drept",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa repararea fracturii cu material de osteosinteza metalic",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa muschiul deltoid drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul deltoid stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul supraspinos drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul supraspinos stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul, pe incidenta de profil",
+        "is_correct": false
+      }
+    ],
+    "image": "90.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o radiografie",
+        "is_correct": true
+      },
+      {
+        "text": "Este imagine de fata",
+        "is_correct": true
+      },
+      {
+        "text": "Este imagine a gambei",
+        "is_correct": true
+      },
+      {
+        "text": "Este pe partea dreapta",
+        "is_correct": true
+      },
+      {
+        "text": "Este copil",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa prima vertebra cervicala",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa a doua vertebra cervicala",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa a treia vertebra cervicala",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa a patra vertebra cervicala",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa a cincea vertebra cervicala",
+        "is_correct": false
+      }
+    ],
+    "image": "91.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Se observa fractura tibiei",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa fractura peroneului",
+        "is_correct": true
+      },
+      {
+        "text": "Leziunea tibiei este oblica",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa calus",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa gauri de la fixatorul extern",
+        "is_correct": true
+      },
+      {
+        "text": "Este o ecografie",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul biceps brahial drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul biceps brahial stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul deltoid drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul deltoid stang",
+        "is_correct": false
+      }
+    ],
+    "image": "92.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Fractura tibiei nu este vindecata",
+        "is_correct": true
+      },
+      {
+        "text": "Este o fractura veche a tibiei",
+        "is_correct": true
+      },
+      {
+        "text": "Este o fractura veche a peroneului",
+        "is_correct": true
+      },
+      {
+        "text": "Tijele fixatorului extern au trecut prin extremitatea superioara a tibiei",
+        "is_correct": true
+      },
+      {
+        "text": "Tijele fixatorului extern au trecut prin extremitatea inferioara a tibiei",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa corpi vertebrali normali",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa fractura de corp vertebral la vertebrele cervicale",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa fractura de corp vertebral la vertebrele toracale",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa fractura de corp vertebral la vertebrele lombare",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa fractura de apofize spinoase la vertebrele cervicale",
+        "is_correct": false
+      }
+    ],
+    "image": "93.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o radiografie",
+        "is_correct": true
+      },
+      {
+        "text": "Este imagine de profil",
+        "is_correct": true
+      },
+      {
+        "text": "Este imagine a gambei",
+        "is_correct": true
+      },
+      {
+        "text": "Nu se poate preciza daca este pe partea dreapta sau stanga",
+        "is_correct": true
+      },
+      {
+        "text": "Este copil",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa prima vertebra cervicala",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa a doua vertebra cervicala",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa a treia vertebra cervicala",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa a patra vertebra cervicala",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa a cincea vertebra cervicala",
+        "is_correct": false
+      }
+    ],
+    "image": "94.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Se observa fractura tibiei",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa fractura peroneului",
+        "is_correct": true
+      },
+      {
+        "text": "Leziunea tibiei este oblica",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa calus",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa gauri de la fixatorul extern",
+        "is_correct": true
+      },
+      {
+        "text": "Este o ecografie",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul biceps brahial drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul biceps brahial stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul deltoid drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul deltoid stang",
+        "is_correct": false
+      }
+    ],
+    "image": "95.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Fractura tibiei nu este vindecata",
+        "is_correct": true
+      },
+      {
+        "text": "Este o fractura veche a tibiei",
+        "is_correct": true
+      },
+      {
+        "text": "Este o fractura veche a peroneului",
+        "is_correct": true
+      },
+      {
+        "text": "Tijele fixatorului extern au trecut prin extremitatea superioara a tibiei",
+        "is_correct": true
+      },
+      {
+        "text": "Tijele fixatorului extern au trecut prin extremitatea inferioara a tibiei",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa corpi vertebrali normali",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa fractura de corp vertebral la vertebrele cervicale",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa fractura de corp vertebral la vertebrele toracale",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa fractura de corp vertebral la vertebrele lombare",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa fractura de apofize spinoase la vertebrele cervicale",
+        "is_correct": false
+      }
+    ],
+    "image": "96.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o radiografie",
+        "is_correct": true
+      },
+      {
+        "text": "Este imagine de fata",
+        "is_correct": true
+      },
+      {
+        "text": "Este pe partea dreapta",
+        "is_correct": true
+      },
+      {
+        "text": "Este copil",
+        "is_correct": true
+      },
+      {
+        "text": "Este femurul",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa clavicula dreapta",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa clavicula stanga",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa mandibula",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul, in incidenta de fata",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul, in incidenta de profil",
+        "is_correct": false
+      }
+    ],
+    "image": "97.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o infectie a femurului",
+        "is_correct": true
+      },
+      {
+        "text": "Este osteomielita femurului",
+        "is_correct": true
+      },
+      {
+        "text": "Poate sa apara ca o complicatie dupa fractura",
+        "is_correct": true
+      },
+      {
+        "text": "Poate sa apara ca o complicatie dupa inserarea de brose metalice",
+        "is_correct": true
+      },
+      {
+        "text": "Poate sa apara ca o complicatie dupa inserarea de placa cu suruburi",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa toracele",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul marele pectoral drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul marele pectoral stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul micul pectoral drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul micul pectoral stang",
+        "is_correct": false
+      }
+    ],
+    "image": "98.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Se observa cartilagiu de crestere la nivelul capului femoral",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa ingrosarea periostului",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa un sechestru in condilul extern",
+        "is_correct": true
+      },
+      {
+        "text": "Zonele negre inseamna distrugere a osului",
+        "is_correct": true
+      },
+      {
+        "text": "Zonele negre inseamna necroza a osului",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa corpi vertebrali normali",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa fractura de corp vertebral la vertebrele cervicale",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa fractura de corp vertebral la vertebrele toracale",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa fractura de corp vertebral la vertebrele lombare",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa fractura de apofize spinoase la vertebrele cervicale",
+        "is_correct": false
+      }
+    ],
+    "image": "99.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o radiografie",
+        "is_correct": true
+      },
+      {
+        "text": "Este articulatia gleznei",
+        "is_correct": true
+      },
+      {
+        "text": "Nu se poate preciza daca este pe partea dreapta sau stanga",
+        "is_correct": true
+      },
+      {
+        "text": "Este imagine de profil",
+        "is_correct": true
+      },
+      {
+        "text": "Nu se vede semnul care sa precizeze pe care parte este leziunea",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa corpii vertebrali cervicali",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa corpii vertebrali dorsali",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa corpii vertebrali lombari",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa apofizele spinoase ale vertebrelor cervicale",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa apofizele spinoase ale vertebrelor lombare",
+        "is_correct": false
+      }
+    ],
+    "image": "100.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este un copil",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa fractura",
+        "is_correct": true
+      },
+      {
+        "text": "Leziunea este in portiunea posterioara",
+        "is_correct": true
+      },
+      {
+        "text": "Leziunea este la nivelul metafizei",
+        "is_correct": true
+      },
+      {
+        "text": "Leziunea este la tibie",
+        "is_correct": true
+      },
+      {
+        "text": "Este o imagine de fata",
+        "is_correct": false
+      },
+      {
+        "text": "Este o imagine de CT",
+        "is_correct": false
+      },
+      {
+        "text": "Este o fractura de corp vertebral cervical",
+        "is_correct": false
+      },
+      {
+        "text": "Este o fractura de corp vertebral dorsal",
+        "is_correct": false
+      },
+      {
+        "text": "Este o fractura de corp vertebral lombar",
+        "is_correct": false
+      }
+    ],
+    "image": "101.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Se observa cartilagiu de crestere la extremitatea inferioara a tibiei",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa pansament in jurul gleznei",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa calcaneu normal",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa astragal normal",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa partial extremitatea proximala a unor oase metatarsiene",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa ventriculul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa ventriculul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa atriul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa atriul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul",
+        "is_correct": false
+      }
+    ],
+    "image": "102.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o radiografie",
+        "is_correct": true
+      },
+      {
+        "text": "Este articulatia genunchiului",
+        "is_correct": true
+      },
+      {
+        "text": "Este pe partea stanga",
+        "is_correct": true
+      },
+      {
+        "text": "Este imagine de fata",
+        "is_correct": true
+      },
+      {
+        "text": "Este un copil",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa corpii vertebrali cervicali",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa corpii vertebrali dorsali",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa corpii vertebrali lombari",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa apofizele spinoase ale vertebrelor cervicale",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa apofizele spinoase ale vertebrelor lombare",
+        "is_correct": false
+      }
+    ],
+    "image": "103.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Leziunea este la femur",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa fractura condilului intern",
+        "is_correct": true
+      },
+      {
+        "text": "Leziunea este la nivelul metafizei superioare a tibiei",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa nuclei de osificare",
+        "is_correct": true
+      },
+      {
+        "text": "Condilul extern este normal",
+        "is_correct": true
+      },
+      {
+        "text": "Este o imagine de profil",
+        "is_correct": false
+      },
+      {
+        "text": "Este o imagine de CT",
+        "is_correct": false
+      },
+      {
+        "text": "Este o fractura de corp vertebral cervical",
+        "is_correct": false
+      },
+      {
+        "text": "Este o fractura de corp vertebral dorsal",
+        "is_correct": false
+      },
+      {
+        "text": "Este o fractura de corp vertebral lombar",
+        "is_correct": false
+      }
+    ],
+    "image": "104.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Se observa nucleu de osificare la extremitatea superioara a tibiei",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa nucleu de osificare la extremitatea inferioara a femurului",
+        "is_correct": true
+      },
+      {
+        "text": "Nu se observa rotula",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa partial extremitatea inferioara a femurului",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa partial extremitatea superioara a tibiei",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa ventriculul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa ventriculul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa atriul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa atriul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul",
+        "is_correct": false
+      }
+    ],
+    "image": "105.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o radiografie",
+        "is_correct": true
+      },
+      {
+        "text": "Este articulatia genunchiului",
+        "is_correct": true
+      },
+      {
+        "text": "Nu se poate preciza daca este pe partea dreapta sau stanga",
+        "is_correct": true
+      },
+      {
+        "text": "Este imagine de profil",
+        "is_correct": true
+      },
+      {
+        "text": "Este un copil",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa corpii vertebrali cervicali",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa corpii vertebrali dorsali",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa corpii vertebrali lombari",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa apofizele spinoase ale vertebrelor cervicale",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa apofizele spinoase ale vertebrelor lombare",
+        "is_correct": false
+      }
+    ],
+    "image": "106.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Leziunea este la tibie",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa ingrosarea periostului in portiunea superioara a tibiei",
+        "is_correct": true
+      },
+      {
+        "text": "Leziunea este in curs de vindecare",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa nuclei de osificare",
+        "is_correct": true
+      },
+      {
+        "text": "Diafiza femurului este normala",
+        "is_correct": true
+      },
+      {
+        "text": "Este o imagine de fata",
+        "is_correct": false
+      },
+      {
+        "text": "Este o imagine de CT",
+        "is_correct": false
+      },
+      {
+        "text": "Este o fractura de corp vertebral cervical",
+        "is_correct": false
+      },
+      {
+        "text": "Este o fractura de corp vertebral dorsal",
+        "is_correct": false
+      },
+      {
+        "text": "Este o fractura de corp vertebral lombar",
+        "is_correct": false
+      }
+    ],
+    "image": "107.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Se observa nucleu de osificare la extremitatea superioara a tibiei",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa nucleu de osificare la extremitatea inferioara a femurului",
+        "is_correct": true
+      },
+      {
+        "text": "Nu se observa rotula",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa partial extremitatea inferioara a femurului",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa partial extremitatea superioara a tibiei",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa ventriculul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa ventriculul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa atriul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa atriul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul",
+        "is_correct": false
+      }
+    ],
+    "image": "108.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o radiografie",
+        "is_correct": true
+      },
+      {
+        "text": "Este imagine de fata",
+        "is_correct": true
+      },
+      {
+        "text": "Este pe partea dreapta",
+        "is_correct": true
+      },
+      {
+        "text": "Este o fractura de humerus",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa un chist osos",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa muschiul cvadriceps stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul cvadriceps drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa rotula dreapta",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa rotula stanga",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul",
+        "is_correct": false
+      }
+    ],
+    "image": "109.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este un copil",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa cartilagiul de crestere la nivelul capului humeral",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa glena humerala",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa o portiune din clavicula dreapta",
+        "is_correct": true
+      },
+      {
+        "text": "Nu se observa craniul",
+        "is_correct": true
+      },
+      {
+        "text": "Este o imagine de MRI",
+        "is_correct": false
+      },
+      {
+        "text": "Este incidenta axiala",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa oasele tarsiene stangi",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa oasele metatarsiene stangi",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa falangele halucelui stang",
+        "is_correct": false
+      }
+    ],
+    "image": "110.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o radiografie",
+        "is_correct": true
+      },
+      {
+        "text": "Este imagine de fata",
+        "is_correct": true
+      },
+      {
+        "text": "Este pe partea dreapta",
+        "is_correct": true
+      },
+      {
+        "text": "Este o fractura de humerus vindecata",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa un chist osos",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa muschiul cvadriceps stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul cvadriceps drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa rotula dreapta",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa rotula stanga",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul",
+        "is_correct": false
+      }
+    ],
+    "image": "111.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este un copil",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa cartilagiul de crestere la nivelul capului humeral",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa glena humerala",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa o portiune din clavicula dreapta",
+        "is_correct": true
+      },
+      {
+        "text": "Nu se observa craniul",
+        "is_correct": true
+      },
+      {
+        "text": "Este o imagine de MRI",
+        "is_correct": false
+      },
+      {
+        "text": "Este incidenta axiala",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa oasele tarsiene stangi",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa oasele metatarsiene stangi",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa falangele halucelui stang",
+        "is_correct": false
+      }
+    ],
+    "image": "112.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o radiografie",
+        "is_correct": true
+      },
+      {
+        "text": "Este imagine de fata",
+        "is_correct": true
+      },
+      {
+        "text": "Este pe partea dreapta",
+        "is_correct": true
+      },
+      {
+        "text": "Este o fractura noua de humerus, in zona opusa calusului format la fractura veche",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa un chist osos",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa muschiul cvadriceps stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul cvadriceps drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa rotula dreapta",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa rotula stanga",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul",
+        "is_correct": false
+      }
+    ],
+    "image": "113.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este un copil",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa cartilagiul de crestere la nivelul capului humeral",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa glena humerala",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa o portiune din clavicula dreapta",
+        "is_correct": true
+      },
+      {
+        "text": "Nu se observa craniul",
+        "is_correct": true
+      },
+      {
+        "text": "Este o imagine de MRI",
+        "is_correct": false
+      },
+      {
+        "text": "Este incidenta axiala",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa oasele tarsiene stangi",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa oasele metatarsiene stangi",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa falangele halucelui stang",
+        "is_correct": false
+      }
+    ],
+    "image": "114.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o radiografie",
+        "is_correct": true
+      },
+      {
+        "text": "Este un copil",
+        "is_correct": true
+      },
+      {
+        "text": "Este o imagine de fata",
+        "is_correct": true
+      },
+      {
+        "text": "Este un deget",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa o fractura",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa soldul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa soldul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa umarul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa umarul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa genunchiul stang",
+        "is_correct": false
+      }
+    ],
+    "image": "115.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Se observa cartilagii de crestere",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa o tumora benigna",
+        "is_correct": true
+      },
+      {
+        "text": "Leziunea este localizata la nivelul falangei a II –a",
+        "is_correct": true
+      },
+      {
+        "text": "Leziunea are aspect rotund",
+        "is_correct": true
+      },
+      {
+        "text": "Leziunea a fragilizat osul si a favorizat fractura",
+        "is_correct": true
+      },
+      {
+        "text": "Este o ecografie",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa humerusul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa humerusul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa femurul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa femurul stang",
+        "is_correct": false
+      }
+    ],
+    "image": "116.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o radiografie",
+        "is_correct": true
+      },
+      {
+        "text": "Este un copil",
+        "is_correct": true
+      },
+      {
+        "text": "Este o imagine de profil",
+        "is_correct": true
+      },
+      {
+        "text": "Este un deget",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa o fractura",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa soldul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa soldul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa umarul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa umarul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa genunchiul stang",
+        "is_correct": false
+      }
+    ],
+    "image": "117.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Se observa cartilagii de crestere",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa o tumora benigna",
+        "is_correct": true
+      },
+      {
+        "text": "Leziunea este localizata la nivelul falangei a II –a",
+        "is_correct": true
+      },
+      {
+        "text": "Leziunea are forma ovala",
+        "is_correct": true
+      },
+      {
+        "text": "Leziunea a fragilizat osul si a favorizat fractura",
+        "is_correct": true
+      },
+      {
+        "text": "Este o ecografie",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa humerusul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa humerusul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa femurul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa femurul stang",
+        "is_correct": false
+      }
+    ],
+    "image": "118.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o radiografie",
+        "is_correct": true
+      },
+      {
+        "text": "Este imagine de fata",
+        "is_correct": true
+      },
+      {
+        "text": "Este un copil",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa fractura",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa femurul",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa prima vertebra cervicala",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa a doua vertebra cervicala",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa a treia vertebra cervicala",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa a patra vertebra cervicala",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa a cincea vertebra cervicala",
+        "is_correct": false
+      }
+    ],
+    "image": "119.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Se observa o tumora",
+        "is_correct": true
+      },
+      {
+        "text": "Leziunea este localizata la nivelul femurului",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa cartilagiu de crestere",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa opaciefierea diafizei",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa fractura pe os patologic",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa oasele carpiene drepte",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa oasele metacarpiene drepte",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa oasele carpiene stangi",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa oasele metacarpiene stangi",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul",
+        "is_correct": false
+      }
+    ],
+    "image": "120.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o radiografie",
+        "is_correct": true
+      },
+      {
+        "text": "Este imagine de fata",
+        "is_correct": true
+      },
+      {
+        "text": "Este un copil",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa fractura",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa femurul",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa prima vertebra cervicala",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa a doua vertebra cervicala",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa a treia vertebra cervicala",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa a patra vertebra cervicala",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa a cincea vertebra cervicala",
+        "is_correct": false
+      }
+    ],
+    "image": "121.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Se observa os subtire",
+        "is_correct": true
+      },
+      {
+        "text": "Leziunea este localizata la nivelul femurului",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa cartilagiu de crestere",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa os fragil",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa fractura pe os patologic",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa oasele carpiene drepte",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa oasele metacarpiene drepte",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa oasele carpiene stangi",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa oasele metacarpiene stangi",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul",
+        "is_correct": false
+      }
+    ],
+    "image": "122.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o radiografie",
+        "is_correct": true
+      },
+      {
+        "text": "Este imagine de profil",
+        "is_correct": true
+      },
+      {
+        "text": "Este un copil",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa fractura",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa femurul",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa prima vertebra cervicala",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa a doua vertebra cervicala",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa a treia vertebra cervicala",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa a patra vertebra cervicala",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa a cincea vertebra cervicala",
+        "is_correct": false
+      }
+    ],
+    "image": "123.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos se observa in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Se observa os subtire",
+        "is_correct": true
+      },
+      {
+        "text": "Leziunea este localizata la nivelul femurului",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa cartilagiu de crestere",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa os fragil",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa fractura pe os patologic",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa oasele carpiene drepte",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa oasele metacarpiene drepte",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa oasele carpiene stangi",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa oasele metacarpiene stangi",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul",
+        "is_correct": false
+      }
+    ],
+    "image": "124.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos sunt in imaginea prezentata :",
+    "answers": [
+      {
+        "text": "Este o radiografie",
+        "is_correct": true
+      },
+      {
+        "text": "Este pe partea dreapta",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa fractura",
+        "is_correct": true
+      },
+      {
+        "text": "Osul implicat este clavicula",
+        "is_correct": true
+      },
+      {
+        "text": "Implicata este extremitatea proximala",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa femurul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa femurul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa peroneul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa peroneul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa bazinul",
+        "is_correct": false
+      }
+    ],
+    "image": "125.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este incidenta de fata",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata de sus indica o fractura",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata de jos indica o fractura",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata de sus indica clavicula",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata de jos indica clavicula",
+        "is_correct": true
+      },
+      {
+        "text": "Este o imagine de MRI",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul cvadriceps drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul cvadriceps stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul croitor drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul croitor stang",
+        "is_correct": false
+      }
+    ],
+    "image": "126.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o radiografie",
+        "is_correct": true
+      },
+      {
+        "text": "Este pe partea dreapta",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa fractura",
+        "is_correct": true
+      },
+      {
+        "text": "Osul implicat este clavicula",
+        "is_correct": true
+      },
+      {
+        "text": "Implicata este extremitatea distala",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa femurul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa femurul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa peroneul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa peroneul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa bazinul",
+        "is_correct": false
+      }
+    ],
+    "image": "127.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este incidenta de fata",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata de sus indica o fractura",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata de jos indica o fractura",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata de sus indica clavicula",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata de jos indica omoplatul",
+        "is_correct": true
+      },
+      {
+        "text": "Este o imagine de MRI",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul cvadriceps drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul cvadriceps stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul croitor drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul croitor stang",
+        "is_correct": false
+      }
+    ],
+    "image": "128.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o radiografie",
+        "is_correct": true
+      },
+      {
+        "text": "Este pe partea stanga",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa fractura",
+        "is_correct": true
+      },
+      {
+        "text": "Osul implicat este clavicula",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa suprapunerea fragmentelor",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa femurul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa femurul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa peroneul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa peroneul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa bazinul",
+        "is_correct": false
+      }
+    ],
+    "image": "129.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este incidenta de fata",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata de sus indica o fractura",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata de jos indica o fractura",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata de sus indica clavicula",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata de jos indica clavicula",
+        "is_correct": true
+      },
+      {
+        "text": "Este o imagine de MRI",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul cvadriceps drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul cvadriceps stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul croitor drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul croitor stang",
+        "is_correct": false
+      }
+    ],
+    "image": "130.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o radiografie",
+        "is_correct": true
+      },
+      {
+        "text": "Este pe partea stanga",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa o tumora",
+        "is_correct": true
+      },
+      {
+        "text": "Osul implicat este clavicula",
+        "is_correct": true
+      },
+      {
+        "text": "Este o imagine ce sugereaza calus dupa fractura",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa femurul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa femurul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa peroneul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa peroneul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa bazinul",
+        "is_correct": false
+      }
+    ],
+    "image": "131.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este incidenta de fata",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata indica leziunea",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata indica clavicula",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa capul humeral",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa glena humerala",
+        "is_correct": true
+      },
+      {
+        "text": "Este o imagine de MRI",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul cvadriceps drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul cvadriceps stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul croitor drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul croitor stang",
+        "is_correct": false
+      }
+    ],
+    "image": "132.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o radiografie",
+        "is_correct": true
+      },
+      {
+        "text": "Este pe partea stanga",
+        "is_correct": true
+      },
+      {
+        "text": "Este o fractura",
+        "is_correct": true
+      },
+      {
+        "text": "Este o luxatie",
+        "is_correct": true
+      },
+      {
+        "text": "Leziunea este localizata la capul humeral",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa femurul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa femurul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa peroneul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa peroneul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa bazinul",
+        "is_correct": false
+      }
+    ],
+    "image": "133.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este incidenta de fata",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa partial cateva coaste",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa glena humerala",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa partial clavicula",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa partial omoplatul",
+        "is_correct": true
+      },
+      {
+        "text": "Este o imagine de MRI",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul cvadriceps drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul cvadriceps stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul croitor drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul croitor stang",
+        "is_correct": false
+      }
+    ],
+    "image": "134.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Colul chirurgical este afectat",
+        "is_correct": true
+      },
+      {
+        "text": "Osul afectat este humerusul",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa articulatia scapulo-humerala",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa partial plamanul",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa partial diafiza humerala",
+        "is_correct": true
+      },
+      {
+        "text": "Este o imagine de CT",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa coloana cervicala, in incidenta de fata",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa coloana cervicala, in incidenta de profil",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa coloana dorsala, in incidenta de fata",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa coloana dorsala, in incidenta de profil",
+        "is_correct": false
+      }
+    ],
+    "image": "135.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o radiografie",
+        "is_correct": true
+      },
+      {
+        "text": "Este pe partea dreapta",
+        "is_correct": true
+      },
+      {
+        "text": "Este o fractura",
+        "is_correct": true
+      },
+      {
+        "text": "Osul implicat este humerusul",
+        "is_correct": true
+      },
+      {
+        "text": "Leziunea este localizata la capul humeral",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa femurul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa femurul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa peroneul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa peroneul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa bazinul",
+        "is_correct": false
+      }
+    ],
+    "image": "136.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este incidenta de fata",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa partial cateva coaste",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa glena humerala",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa partial clavicula",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa partial omoplatul",
+        "is_correct": true
+      },
+      {
+        "text": "Este o imagine de MRI",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul cvadriceps drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul cvadriceps stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul croitor drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul croitor stang",
+        "is_correct": false
+      }
+    ],
+    "image": "137.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Marea tuberozitate este afectata",
+        "is_correct": true
+      },
+      {
+        "text": "Osul afectat este humerusul",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa articulatia scapulo-humerala",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa partial plamanul",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa partial diafiza humerala",
+        "is_correct": true
+      },
+      {
+        "text": "Este o imagine de CT",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa coloana cervicala, in incidenta de fata",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa coloana cervicala, in incidenta de profil",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa coloana dorsala, in incidenta de fata",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa coloana dorsala, in incidenta de profil",
+        "is_correct": false
+      }
+    ],
+    "image": "138.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o radiografie",
+        "is_correct": true
+      },
+      {
+        "text": "Este pe partea stanga",
+        "is_correct": true
+      },
+      {
+        "text": "Este o fractura",
+        "is_correct": true
+      },
+      {
+        "text": "Osul implicat este humerusul",
+        "is_correct": true
+      },
+      {
+        "text": "Leziunea este localizata la colului chirurgical",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa femurul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa femurul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa peroneul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa peroneul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa bazinul",
+        "is_correct": false
+      }
+    ],
+    "image": "139.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este incidenta de fata",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa partial cateva coaste",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa glena humerala",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa partial clavicula",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa partial omoplatul",
+        "is_correct": true
+      },
+      {
+        "text": "Este o imagine de MRI",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul cvadriceps drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul cvadriceps stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul croitor drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul croitor stang",
+        "is_correct": false
+      }
+    ],
+    "image": "140.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Rezulta mai multe fragmente",
+        "is_correct": true
+      },
+      {
+        "text": "Leziunea vizibila este foarte instabila",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa articulatia scapulo-humerala",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa partial plamanul",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa partial diafiza humerala",
+        "is_correct": true
+      },
+      {
+        "text": "Este o imagine de CT",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa coloana cervicala, in incidenta de fata",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa coloana cervicala, in incidenta de profil",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa coloana dorsala, in incidenta de fata",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa coloana dorsala, in incidenta de profil",
+        "is_correct": false
+      }
+    ],
+    "image": "141.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o radiografie",
+        "is_correct": true
+      },
+      {
+        "text": "Este pe partea stanga",
+        "is_correct": true
+      },
+      {
+        "text": "Este o fractura spiralata",
+        "is_correct": true
+      },
+      {
+        "text": "Osul implicat este humerusul",
+        "is_correct": true
+      },
+      {
+        "text": "Leziunea este localizata la diafiza",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa femurul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa femurul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa peroneul drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa peroneul stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa bazinul",
+        "is_correct": false
+      }
+    ],
+    "image": "142.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este incidenta de fata",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa capul humeral",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa extremitatea superioara a radiusului",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa extremitatea superioara a cubitusului",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa extremitatea inferioara a humerusului",
+        "is_correct": true
+      },
+      {
+        "text": "Este o imagine de MRI",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul cvadriceps drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul cvadriceps stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul croitor drept",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul croitor stang",
+        "is_correct": false
+      }
+    ],
+    "image": "143.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o radiografie",
+        "is_correct": true
+      },
+      {
+        "text": "Este pe partea stanga",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa o luxatie",
+        "is_correct": true
+      },
+      {
+        "text": "Osul implicat este humerusul",
+        "is_correct": true
+      },
+      {
+        "text": "Osul implicat este glena omoplatului",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa vertebre cervicale, in incidenta de fata",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa vertebre cervicale, in incidenta de profil",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa vertebre dorsale, in incidenta de fata",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa vertebre dorsale, in incidenta de profil",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa vertebre lombare, in incidenta de profil",
+        "is_correct": false
+      }
+    ],
+    "image": "144.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Se observa cateva coaste",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa articulatia scapula-humerala",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa clavicula stanga",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa omoplatul stang",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa exremitatea superioara a humerusului",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa bazinul",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa creasta iliaca stanga",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa creasta iliaca dreapta",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa tibia dreapta",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa tibia stanga",
+        "is_correct": false
+      }
+    ],
+    "image": "145.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o radiografie",
+        "is_correct": true
+      },
+      {
+        "text": "Este pe partea stanga",
+        "is_correct": true
+      },
+      {
+        "text": "Este un copil",
+        "is_correct": true
+      },
+      {
+        "text": "Este o luxatie",
+        "is_correct": true
+      },
+      {
+        "text": "Este implicata articulatia scapula-humerala",
+        "is_correct": true
+      },
+      {
+        "text": "Este o imagine de MRI",
+        "is_correct": false
+      },
+      {
+        "text": "Este incidenta axiala",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul cvadriceps stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa muschiul croitor stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa genunchiul stang",
+        "is_correct": false
+      }
+    ],
+    "image": "146.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o luxatie scapula-humerala",
+        "is_correct": true
+      },
+      {
+        "text": "Este varianta posterioara",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa cartilagiul de crestere",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa clavicula stanga",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa exremitatea superioara a humerusului",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa bazinul",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa creasta iliaca stanga",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa creasta iliaca dreapta",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa tibia dreapta",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa tibia stanga",
+        "is_correct": false
+      }
+    ],
+    "image": "147.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o radiografie",
+        "is_correct": true
+      },
+      {
+        "text": "Nu se poate preciza daca este implicate partea dreapta sau partea stanga",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa o fractura",
+        "is_correct": true
+      },
+      {
+        "text": "Leziunea este localizata la nivelul cubitusului",
+        "is_correct": true
+      },
+      {
+        "text": "Leziunea este localizata la nivelul olecranului",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa craniul, in incidenta de fata",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa craniul, in incidenta de profil",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa coloana cervicala, in incidenta de fata",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa coloana cervicala, in incidenta de profil",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa coloana dorsala, in incidenta de profil",
+        "is_correct": false
+      }
+    ],
+    "image": "148.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Sageata indica o fractura",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata indica olecranul",
+        "is_correct": true
+      },
+      {
+        "text": "Sageata indica extremitatea superioara a cubitusului",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa extremitatea inferioara a humerusului",
+        "is_correct": true
+      },
+      {
+        "text": "Se observa extremitatea superioara a radiusului",
+        "is_correct": true
+      },
+      {
+        "text": "Este o ecografie",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa cordul",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa toracele",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa ventricului stang",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa ventricului drept",
+        "is_correct": false
+      }
+    ],
+    "image": "149.jpg"
+  },
+  {
+    "question": "Precizati ce segmente ale sistemului osos sunt in imaginea prezentata:",
+    "answers": [
+      {
+        "text": "Este o radiografie",
+        "is_correct": true
+      },
+      {
+        "text": "Este pe partea stanga",
+        "is_correct": true
+      },
+      {
+        "text": "Este o fractura",
+        "is_correct": true
+      },
+      {
+        "text": "Leziunea se gaseste la nivelul humerusului",
+        "is_correct": true
+      },
+      {
+        "text": "Leziunea se gaseste la nivelul condilului",
+        "is_correct": true
+      },
+      {
+        "text": "Este o imagine de CT",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa mana dreapta",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa mana stanga",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa metacarpienele drepte",
+        "is_correct": false
+      },
+      {
+        "text": "Se observa metacarpienele stangi",
+        "is_correct": false
+      }
+    ],
+    "image": "150.jpg"
+  }
+]
