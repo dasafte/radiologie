@@ -1,0 +1,189 @@
+
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <title>Simulare Radiologie</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .question { margin-bottom: 20px; }
+        .answers { list-style-type: none; padding: 0; }
+        .answers li { margin-bottom: 10px; }
+        .answers li.correct { color: green; font-weight: bold; }
+        .answers li.incorrect { color: red; text-decoration: line-through; }
+        .multiple-correct { border: 2px solid blue; padding: 10px; background-color: #e6f7ff; }
+        #progress, #statistics { margin: 20px 0; font-weight: bold; }
+        #submit { margin: 20px 0; padding: 10px 20px; font-size: 16px; background-color: #4CAF50; color: white; border: none; cursor: pointer; }
+        #submit:hover { background-color: #45a049; }
+    </style>
+</head>
+<body>
+    <h1>Simulare Radiologie</h1>
+    <button id="submit" disabled>Trimite Testul</button>
+    <p id="progress"></p>
+    <p id="statistics"></p>
+    <div id="exam-container"></div>
+
+    <script>
+        const submitButton = document.getElementById('submit');
+        const progressDisplay = document.getElementById('progress');
+        const statisticsDisplay = document.getElementById('statistics');
+        const examContainer = document.getElementById('exam-container');
+
+        let loadedData = [];
+        let currentTest = [];
+        let totalCorrectAnswersUsed = 0;
+        let totalQuestionsUsed = 0;
+
+        fetch("radiologie.json")
+            .then(res => res.json())
+            .then(data => {
+                loadedData = data;
+                updateStatistics();
+                currentTest = generateTest(loadedData, 32, 16, 16);
+                displayExam(currentTest);
+                submitButton.disabled = false;
+            })
+            .catch(err => {
+                examContainer.innerHTML = '<p style="color:red;">Eroare la încărcarea fișierului radiologie.json: ' + err.message + '</p>';
+            });
+
+        submitButton.addEventListener('click', () => {
+            let totalScore = 0;
+            let correctAnswersInTest = 0;
+
+            currentTest.forEach((question, index) => {
+                const checkboxes = document.querySelectorAll(`#exam-container .question:nth-child(${index + 1}) input[type='checkbox']`);
+                let correctChecked = 0, incorrectChecked = 0, correctAnswersCount = 0;
+
+                checkboxes.forEach(checkbox => {
+                    const isCorrect = checkbox.dataset.correct === 'true';
+                    if (isCorrect) correctAnswersCount++;
+                    if (checkbox.checked) {
+                        if (isCorrect) correctChecked++;
+                        else incorrectChecked++;
+                    }
+                });
+
+                let questionScore = 0;
+                if (correctAnswersCount === 1) {
+                    questionScore = correctChecked === 1 && incorrectChecked === 0 ? 5 : 0;
+                } else if (correctAnswersCount === 2) {
+                    if (correctChecked === 2 && incorrectChecked === 0) questionScore = 5;
+                    else if (correctChecked === 1 && incorrectChecked === 0) questionScore = 3;
+                    else if (correctChecked === 1 && incorrectChecked === 1) questionScore = 2;
+                    else if (correctChecked === 2 && incorrectChecked === 1) questionScore = 4;
+                } else if (correctAnswersCount === 3) {
+                    if (correctChecked === 3 && incorrectChecked === 0) questionScore = 5;
+                    else if (correctChecked === 2 && incorrectChecked === 0) questionScore = 4;
+                    else if (correctChecked === 2 && incorrectChecked === 1) questionScore = 3;
+                    else if (correctChecked === 1 && incorrectChecked === 2) questionScore = 1;
+                } else if (correctAnswersCount === 4) {
+                    if (correctChecked === 4 && incorrectChecked === 0) questionScore = 5;
+                    else if (correctChecked === 3 && incorrectChecked === 0) questionScore = 4;
+                    else if (correctChecked === 3 && incorrectChecked === 1) questionScore = 3;
+                    else if (correctChecked === 2 && incorrectChecked === 1) questionScore = 3;
+                    else if (correctChecked === 2 && incorrectChecked === 0) questionScore = 3;
+                    else if (correctChecked === 1 && incorrectChecked === 1) questionScore = 1;
+                }
+
+                totalScore += questionScore;
+                correctAnswersInTest += correctChecked;
+
+                checkboxes.forEach(checkbox => {
+                    const parent = checkbox.parentElement;
+                    if (checkbox.checked) {
+                        if (checkbox.dataset.correct === 'true') {
+                            parent.classList.add('correct');
+                        } else {
+                            parent.classList.add('incorrect');
+                        }
+                    } else {
+                        if (checkbox.dataset.correct === 'true') {
+                            parent.classList.add('correct');
+                        }
+                    }
+                });
+            });
+
+            totalCorrectAnswersUsed += correctAnswersInTest;
+            totalQuestionsUsed += currentTest.length;
+            updateProgress();
+
+            alert(`Test trimis! Ai obținut un scor total de ${totalScore} puncte.`);
+            submitButton.disabled = true;
+        });
+
+        function generateTest(data, numQuestions, singleCorrectCount, multipleCorrectCount) {
+            const totalQuestions = data.length;
+            const test = [];
+            let singleCorrectAdded = 0;
+            let multipleCorrectAdded = 0;
+
+            while (test.length < numQuestions) {
+                const randomIndex = Math.floor(Math.random() * totalQuestions);
+                const question = data[randomIndex];
+                const shuffledAnswers = [...question.answers].sort(() => Math.random() - 0.5);
+                const selectedAnswers = shuffledAnswers.slice(0, 5);
+
+                const correctCount = selectedAnswers.filter(a => a.is_correct).length;
+
+                if (singleCorrectAdded < singleCorrectCount && correctCount === 1) {
+                    test.push({ question: question.question, answers: selectedAnswers, correctCount });
+                    singleCorrectAdded++;
+                } else if (multipleCorrectAdded < multipleCorrectCount && correctCount >= 2 && correctCount <= 4) {
+                    test.push({ question: question.question, answers: selectedAnswers, correctCount });
+                    multipleCorrectAdded++;
+                }
+            }
+
+            return test;
+        }
+
+        function displayExam(data) {
+            examContainer.innerHTML = '';
+            data.forEach((q, index) => {
+                const questionDiv = document.createElement('div');
+                questionDiv.className = 'question';
+                if (q.correctCount > 1) questionDiv.classList.add('multiple-correct');
+
+                const questionTitle = document.createElement('h3');
+                questionTitle.textContent = `Întrebarea ${index + 1}: ${q.question}`;
+                questionDiv.appendChild(questionTitle);
+
+                const answersList = document.createElement('ul');
+                answersList.className = 'answers';
+                q.answers.forEach((answer, idx) => {
+                    const answerItem = document.createElement('li');
+                    const checkbox = document.createElement('input');
+                    checkbox.type = 'checkbox';
+                    checkbox.id = `q${index}_a${idx}`;
+                    checkbox.dataset.correct = answer.is_correct;
+                    checkbox.name = `q${index}`;
+
+                    const label = document.createElement('label');
+                    label.htmlFor = checkbox.id;
+                    label.textContent = `${String.fromCharCode(65 + idx)}. ${answer.text}`;
+
+                    answerItem.appendChild(checkbox);
+                    answerItem.appendChild(label);
+                    answersList.appendChild(answerItem);
+                });
+
+                questionDiv.appendChild(answersList);
+                examContainer.appendChild(questionDiv);
+            });
+        }
+
+        function updateProgress() {
+            progressDisplay.textContent = `Progres total: ${totalQuestionsUsed} întrebări și ${totalCorrectAnswersUsed} răspunsuri corecte parcurse.`;
+        }
+
+        function updateStatistics() {
+            const totalQuestions = loadedData.length;
+            const totalAnswers = loadedData.reduce((sum, q) => sum + q.answers.length, 0);
+            statisticsDisplay.textContent = `Statistici: ${totalQuestions} întrebări în total și ${totalAnswers} răspunsuri disponibile.`;
+        }
+    </script>
+</body>
+</html>
