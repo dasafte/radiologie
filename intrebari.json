@@ -1,0 +1,54 @@
+[
+  {
+    "question": "Ce structură este evidențiată în imagine?",
+    "image": "1.jpg",
+    "answers": [
+      {
+        "text": "Femur",
+        "is_correct": true
+      },
+      {
+        "text": "Humerus",
+        "is_correct": false
+      },
+      {
+        "text": "Tibie",
+        "is_correct": false
+      },
+      {
+        "text": "Coloană vertebrală",
+        "is_correct": true
+      },
+      {
+        "text": "Mandibulă",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ce tip de fractură este prezentată?",
+    "image": "2.jpg",
+    "answers": [
+      {
+        "text": "Fractură simplă",
+        "is_correct": true
+      },
+      {
+        "text": "Fractură cominutivă",
+        "is_correct": false
+      },
+      {
+        "text": "Luxație",
+        "is_correct": false
+      },
+      {
+        "text": "Entorsă",
+        "is_correct": false
+      },
+      {
+        "text": "Fractură deschisă",
+        "is_correct": true
+      }
+    ]
+  }
+]
